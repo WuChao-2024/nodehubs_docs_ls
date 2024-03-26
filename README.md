@@ -24,6 +24,6 @@ This section contains documentation for the project. Let's take a look at some o
    $ cd project
    $ python manage.py runserver
    ```
-Visit `http://localhost:8000` to see the project running.
+   Visit `http://localhost:8000` to see the project running.
 
 Feel free to explore the rest of the documentation for more detailed information.
